@@ -1,0 +1,86 @@
+//  Mile Stones and main left fefefetures //
+
+1- Event booking functionalities create update delete , referalls payment 
+2- payment integrations
+3- generating qrcode for each events on the booking page and on the confirm payment billing doc 
+4- working on the live events (both inside and online)
+5- implementing event image Gallery
+6- dynamic like,follow , subscription and share 
+7- Even groupe chat 
+8- Event schedule
+9-Email an number verification and event notification and messages
+10- Event grouping collections
+11- Complete the account creation ,update and customization on load 
+12- Configurating the live event page 
+13- implement the number pagination every wher eneeded 
+14- Add a a fillter on the search box
+15- Restructuring and commenting all yoour code
+16- intergrading event site location and recomendation equipments rending and spekers orientations event flyers
+17- Intergrating telegram chanell room discutions for a specific event 
+18- Setup adwars for  creators and events  top booked events and creators , top sales trending 
+19- GRAPH ILLUTRATIONS 
+20- Setup dynamic specker and event planning details 
+
+
+ // Detail issues //
+
+Add videos and image content onclick on the event memory pag e
+Work on the search feature on the dashboard
+retructuring the input fiels for a actions , evetns category booking ,,, 
+add the grid view and list view icon on the grid view page
+add the view or booking icon and number on the listing contetn<i class="bi bi-eye"></i> 
+add in pricing the creation of a discution chanell like telgram or discord of and event or event organizer
+onlick acess live streming joing the event chart 
+add the dark and light mood 
+add a carrosel ing the event memory headerader 
+add event sponsors
+configure the notification and message page
+Make the landing page gallery auto slider 
+design erro pages  just download and image and add header
+we also have listings for eventsites all over cameroon https://www.peerspace.com/
+add total ticket sold on dashbord 
+https://preview.themeforest.net/item/expovent-event-management-dashboard-html5-template-rtl/full_screen_preview/43288905
+https://preview.themeforest.net/item/goeveni-event-sharing-social-network-html-template/full_screen_preview/25063662
+
+
+  //  Bugs  //
+
+fix no result found for multi search
+follow back the tutorial on padination 
+fix the php error timer messages on admin page
+add a video link on the event memory 
+add all if user acces level checker on every page 
+add all if statements  and conditions in one page calle dcheckers then refere to it at each page loading 
+
+
+ // Event Save Title texts  //
+
+Stranger things on cinema at canal Olympia Douala
+Squid Game projection at canal Olympia Yaoundé
+Wednesday Addams projection at canal Olympia Yaoundé
+Wednesday Addams projection at canal Olympia Yaoundé
+How to achieve cyber security readiness: Lessons from Silicon Valley and the Pentagon
+How Classroom Conversations Engage, Enrich, and Empower Students
+How to boots your study capacity
+The new era of fin-tech over time in our business
+Evolution of fin-tech over time in our business
+How to earn 500$ everyday from home
+Human Skills are Not Just “One More Thing”: Reviving Your School Culture
+Chat-bots, Covid-19, and Clarity: How Tech Enabled Access to Trusted Information in Local Languages
+Compassionate Leadership: How to Do Hard Things in a Human Way
+Web design tips to make your strategy more effective
+Art Exhibition on migration
+Cybersecurity threat's and their
+what is religion its origin and why
+Real Assets in a World of Real Inflation
+Real Assets in a World of Real Inflation
+Covid-19 Funding and Recovery Strategies
+Cybersecurity is the practice of protecting critical systems and sensitive information from digital attacks. Also known as information technology (IT) security, cybersecurity measures are designed to combat threats against networked systems and applications, whether those threats originate from inside or outside of an organization.
+
+/// software achieve
+def sa
+view
+software development live cycle
+tactics 
+pattens types 
+cloud computing
